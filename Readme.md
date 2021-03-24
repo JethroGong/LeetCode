@@ -42,7 +42,7 @@ LeetCode collection.
 |          |162. Find Peak Element  |1-no |
 |          |69. Sqrt(x)  |1-yes |
 |          |Lint-586. Sqrt(x) II  ||
-|          |4. Median of Two Sorted Array  和下面的题是一样的||
+|          |4. Median of Two Sorted Array  和下面的题是一样的 再看一遍||
 |          |Lint-931. Median of K Sorted Arrays  ||
 |          |Laicode: Kth Smallest In Two Sorted Arrays 这个题非常重要！可以到 logn+logk  |bilibili|
 |          |7. Reverse Integer  ||
